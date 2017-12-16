@@ -1,0 +1,47 @@
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.exe.config
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.exe
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.pdb
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.exe
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.pdb
+C:\Users\Андрей\Documents\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.exe.config
+C:\Users\Андрей\Documents\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.exe
+C:\Users\Андрей\Documents\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.pdb
+C:\Users\Андрей\Documents\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.exe
+C:\Users\Андрей\Documents\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.pdb
+C:\Users\Андрей\Documents\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.csprojResolveAssemblyReference.cache
+C:\Users\stud\Desktop\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.exe.config
+C:\Users\stud\Desktop\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.exe
+C:\Users\stud\Desktop\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.pdb
+C:\Users\stud\Desktop\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.csprojResolveAssemblyReference.cache
+C:\Users\stud\Desktop\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.exe
+C:\Users\stud\Desktop\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.pdb
+C:\Users\stud\Desktop\Projects\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.exe.config
+C:\Users\stud\Desktop\Projects\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.exe
+C:\Users\stud\Desktop\Projects\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.pdb
+C:\Users\stud\Desktop\Projects\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.exe
+C:\Users\stud\Desktop\Projects\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.pdb
+C:\Users\User\Documents\Травкин\SemenovAS C#\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.exe.config
+C:\Users\User\Documents\Травкин\SemenovAS C#\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.exe
+C:\Users\User\Documents\Травкин\SemenovAS C#\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.pdb
+C:\Users\User\Documents\Травкин\SemenovAS C#\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.exe
+C:\Users\User\Documents\Травкин\SemenovAS C#\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.pdb
+C:\Users\Андрей\Documents\Травкин\SemenovAS C#\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.exe.config
+C:\Users\Андрей\Documents\Травкин\SemenovAS C#\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.exe
+C:\Users\Андрей\Documents\Травкин\SemenovAS C#\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.pdb
+C:\Users\User\Downloads\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.exe.config
+C:\Users\User\Downloads\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.exe
+C:\Users\User\Downloads\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.pdb
+C:\Users\User\Downloads\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.exe
+C:\Users\User\Downloads\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.pdb
+C:\Users\User\Documents\Травкин\SemenovAS C#\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Травкин\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.exe.config
+C:\Users\Андрей\Documents\Травкин\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.exe
+C:\Users\Андрей\Documents\Травкин\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.pdb
+C:\Users\User\Documents\Травкин\Projects\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.exe.config
+C:\Users\User\Documents\Травкин\Projects\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.exe
+C:\Users\User\Documents\Травкин\Projects\Projects\C_sharp_lab_1\C_sharp_lab_1\bin\Debug\C_sharp_lab_1.pdb
+C:\Users\User\Documents\Травкин\Projects\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Травкин\Projects\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.exe
+C:\Users\User\Documents\Травкин\Projects\Projects\C_sharp_lab_1\C_sharp_lab_1\obj\Debug\C_sharp_lab_1.pdb
