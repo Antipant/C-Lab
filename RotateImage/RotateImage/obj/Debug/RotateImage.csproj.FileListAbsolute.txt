@@ -1,0 +1,57 @@
+c:\users\stud\documents\visual studio 2012\Projects\RotateImage\RotateImage\bin\Debug\RotateImage.exe.config
+c:\users\stud\documents\visual studio 2012\Projects\RotateImage\RotateImage\bin\Debug\RotateImage.exe
+c:\users\stud\documents\visual studio 2012\Projects\RotateImage\RotateImage\bin\Debug\RotateImage.pdb
+c:\users\stud\documents\visual studio 2012\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.Form1.resources
+c:\users\stud\documents\visual studio 2012\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.Properties.Resources.resources
+c:\users\stud\documents\visual studio 2012\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.csproj.GenerateResource.Cache
+c:\users\stud\documents\visual studio 2012\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.exe
+c:\users\stud\documents\visual studio 2012\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.pdb
+C:\Users\stud\Desktop\Новая папка\RotateImage\RotateImage\bin\Debug\RotateImage.exe.config
+C:\Users\stud\Desktop\Новая папка\RotateImage\RotateImage\obj\Debug\RotateImage.exe
+C:\Users\stud\Desktop\Новая папка\RotateImage\RotateImage\obj\Debug\RotateImage.pdb
+C:\Users\stud\Desktop\Новая папка\RotateImage\RotateImage\bin\Debug\RotateImage.exe
+C:\Users\stud\Desktop\Новая папка\RotateImage\RotateImage\bin\Debug\RotateImage.pdb
+C:\Users\stud\Desktop\Новая папка\RotateImage\RotateImage\obj\Debug\RotateImage.Form1.resources
+C:\Users\stud\Desktop\Новая папка\RotateImage\RotateImage\obj\Debug\RotateImage.Properties.Resources.resources
+C:\Users\stud\Desktop\Новая папка\RotateImage\RotateImage\obj\Debug\RotateImage.csproj.GenerateResource.Cache
+F:\2 ЛР_1-16_С#\Kondaratsev_80_205\anotherLabs\RotateImage\RotateImage\bin\Debug\RotateImage.exe.config
+F:\2 ЛР_1-16_С#\Kondaratsev_80_205\anotherLabs\RotateImage\RotateImage\obj\Debug\RotateImage.exe
+F:\2 ЛР_1-16_С#\Kondaratsev_80_205\anotherLabs\RotateImage\RotateImage\obj\Debug\RotateImage.pdb
+C:\Users\stud\Desktop\SemenovAS C#\RotateImage\RotateImage\bin\Debug\RotateImage.exe.config
+C:\Users\stud\Desktop\SemenovAS C#\RotateImage\RotateImage\obj\Debug\RotateImage.exe
+C:\Users\stud\Desktop\SemenovAS C#\RotateImage\RotateImage\obj\Debug\RotateImage.pdb
+E:\Projects\RotateImage\RotateImage\bin\Debug\RotateImage.exe.config
+E:\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.exe
+E:\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.pdb
+C:\Users\Андрей\Documents\Травкин\Projects\RotateImage\RotateImage\bin\Debug\RotateImage.exe.config
+C:\Users\Андрей\Documents\Травкин\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.exe
+C:\Users\Андрей\Documents\Травкин\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.pdb
+C:\Users\Андрей\Documents\Травкин\Projects\RotateImage\RotateImage\bin\Debug\RotateImage.exe
+C:\Users\Андрей\Documents\Травкин\Projects\RotateImage\RotateImage\bin\Debug\RotateImage.pdb
+C:\Users\Андрей\Documents\Травкин\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Травкин\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.Properties.Resources.resources
+C:\Users\Андрей\Documents\Травкин\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\Травкин\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.Form5.resources
+C:\Users\Андрей\Documents\Травкин\Projects\RotateImage\RotateImage\bin\Debug\model_aircraft.dll
+C:\Users\stud\Desktop\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.csprojResolveAssemblyReference.cache
+C:\Users\stud\Desktop\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.Form5.resources
+C:\Users\stud\Desktop\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.Properties.Resources.resources
+C:\Users\stud\Desktop\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.csproj.GenerateResource.Cache
+C:\Users\stud\Desktop\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.exe
+C:\Users\stud\Desktop\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.pdb
+C:\Users\stud\Desktop\Projects\RotateImage\RotateImage\bin\Debug\RotateImage.exe.config
+C:\Users\stud\Desktop\Projects\RotateImage\RotateImage\bin\Debug\RotateImage.exe
+C:\Users\stud\Desktop\Projects\RotateImage\RotateImage\bin\Debug\RotateImage.pdb
+C:\Users\stud\Desktop\Projects\RotateImage\RotateImage\bin\Debug\C_sharp_lab_1.exe
+C:\Users\stud\Desktop\Projects\RotateImage\RotateImage\bin\Debug\C_sharp_lab_1.pdb
+G:\Projects\RotateImage\RotateImage\bin\Debug\RotateImage.exe.config
+G:\Projects\RotateImage\RotateImage\bin\Debug\RotateImage.exe
+G:\Projects\RotateImage\RotateImage\bin\Debug\RotateImage.pdb
+G:\Projects\RotateImage\RotateImage\bin\Debug\C_sharp_lab_1.exe
+G:\Projects\RotateImage\RotateImage\bin\Debug\C_sharp_lab_1.pdb
+G:\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.csprojResolveAssemblyReference.cache
+G:\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.Form5.resources
+G:\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.Properties.Resources.resources
+G:\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.csproj.GenerateResource.Cache
+G:\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.exe
+G:\Projects\RotateImage\RotateImage\obj\Debug\RotateImage.pdb
