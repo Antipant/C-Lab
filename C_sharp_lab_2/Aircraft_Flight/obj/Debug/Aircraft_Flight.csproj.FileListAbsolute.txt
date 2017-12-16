@@ -1,0 +1,179 @@
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe.config
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Form1.resources
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.pdb
+F:\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe.config
+F:\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.exe
+F:\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.pdb
+F:\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe
+F:\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.pdb
+F:\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.exe
+F:\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.pdb
+F:\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csprojResolveAssemblyReference.cache
+F:\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Form1.resources
+F:\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Properties.Resources.resources
+F:\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csproj.GenerateResource.Cache
+I:\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe.config
+I:\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.exe
+I:\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.pdb
+I:\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe
+I:\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.pdb
+I:\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.exe
+I:\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.pdb
+I:\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csprojResolveAssemblyReference.cache
+I:\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Form1.resources
+I:\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Properties.Resources.resources
+I:\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe.config
+C:\Users\Anton\Desktop\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.exe
+C:\Users\Anton\Desktop\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.pdb
+C:\Users\Anton\Desktop\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe
+C:\Users\Anton\Desktop\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.pdb
+C:\Users\Anton\Desktop\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.exe
+C:\Users\Anton\Desktop\Projects\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.pdb
+C:\Users\Anton\Desktop\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Form1.resources
+C:\Users\Anton\Desktop\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Properties.Resources.resources
+C:\Users\Anton\Desktop\Projects\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe.config
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.exe
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.pdb
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.pdb
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.exe
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.pdb
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Form1.resources
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Properties.Resources.resources
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe.config
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.exe
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.pdb
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.pdb
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.exe
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.pdb
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Form1.resources
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Properties.Resources.resources
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\Semenov C#\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe.config
+C:\Users\Anton\Desktop\Semenov C#\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.exe
+C:\Users\Anton\Desktop\Semenov C#\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.pdb
+C:\Users\Anton\Desktop\Semenov C#\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe
+C:\Users\Anton\Desktop\Semenov C#\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.pdb
+C:\Users\Anton\Desktop\Semenov C#\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.exe
+C:\Users\Anton\Desktop\Semenov C#\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.pdb
+C:\Users\Anton\Desktop\Semenov C#\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Semenov C#\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Form1.resources
+C:\Users\Anton\Desktop\Semenov C#\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Properties.Resources.resources
+C:\Users\Anton\Desktop\Semenov C#\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\Semenov C#\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_2.exe
+C:\Users\Anton\Desktop\Semenov C#\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_2.pdb
+C:\Users\Astatiini\Desktop\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe.config
+C:\Users\Astatiini\Desktop\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.exe
+C:\Users\Astatiini\Desktop\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.pdb
+C:\Users\Astatiini\Desktop\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe
+C:\Users\Astatiini\Desktop\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.pdb
+C:\Users\Astatiini\Desktop\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.exe
+C:\Users\Astatiini\Desktop\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_2.exe
+C:\Users\Astatiini\Desktop\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.pdb
+C:\Users\Astatiini\Desktop\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_2.pdb
+C:\Users\Astatiini\Desktop\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csprojResolveAssemblyReference.cache
+C:\Users\Astatiini\Desktop\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Form1.resources
+C:\Users\Astatiini\Desktop\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Properties.Resources.resources
+C:\Users\Astatiini\Desktop\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe.config
+C:\Users\Anton\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.exe
+C:\Users\Anton\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.pdb
+C:\Users\Anton\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe
+C:\Users\Anton\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.pdb
+C:\Users\Anton\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.exe
+C:\Users\Anton\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_2.exe
+C:\Users\Anton\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.pdb
+C:\Users\Anton\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_2.pdb
+C:\Users\Anton\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Form1.resources
+C:\Users\Anton\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Properties.Resources.resources
+C:\Users\Anton\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.ForMouse.resources
+C:\Users\stud\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe.config
+C:\Users\stud\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.exe
+C:\Users\stud\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.pdb
+C:\Users\stud\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe
+C:\Users\stud\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.pdb
+C:\Users\stud\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.exe
+C:\Users\stud\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_2.exe
+C:\Users\stud\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.pdb
+C:\Users\stud\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_2.pdb
+C:\Users\stud\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csprojResolveAssemblyReference.cache
+C:\Users\stud\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Form1.resources
+C:\Users\stud\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.ForMouse.resources
+C:\Users\stud\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Properties.Resources.resources
+C:\Users\stud\Desktop\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csproj.GenerateResource.Cache
+I:\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe.config
+I:\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.exe
+I:\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.pdb
+I:\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe
+I:\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.pdb
+I:\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.exe
+I:\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_2.exe
+I:\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.pdb
+I:\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_2.pdb
+I:\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csprojResolveAssemblyReference.cache
+I:\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Form1.resources
+I:\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.ForMouse.resources
+I:\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Properties.Resources.resources
+I:\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csproj.GenerateResource.Cache
+D:\Projects\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe.config
+D:\Projects\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.exe
+D:\Projects\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.pdb
+D:\Projects\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe
+D:\Projects\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.pdb
+D:\Projects\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.exe
+D:\Projects\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_2.exe
+D:\Projects\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.pdb
+D:\Projects\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_2.pdb
+D:\Projects\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csprojResolveAssemblyReference.cache
+D:\Projects\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Form1.resources
+D:\Projects\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.ForMouse.resources
+D:\Projects\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Properties.Resources.resources
+D:\Projects\C_sharp_LABS\C sharp LABS\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csproj.GenerateResource.Cache
+C:\Users\stud\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe.config
+C:\Users\stud\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.exe
+C:\Users\stud\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.pdb
+C:\Users\stud\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe
+C:\Users\stud\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.pdb
+C:\Users\stud\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.exe
+C:\Users\stud\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_2.exe
+C:\Users\stud\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.pdb
+C:\Users\stud\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_2.pdb
+C:\Users\stud\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csprojResolveAssemblyReference.cache
+C:\Users\stud\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Form1.resources
+C:\Users\stud\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.ForMouse.resources
+C:\Users\stud\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Properties.Resources.resources
+C:\Users\stud\Desktop\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csproj.GenerateResource.Cache
+G:\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe.config
+G:\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.exe
+G:\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.pdb
+F:\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe.config
+F:\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.exe
+F:\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.pdb
+F:\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.exe
+F:\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\Aircraft_Flight.pdb
+F:\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.exe
+F:\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_2.exe
+F:\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_1.pdb
+F:\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\bin\Debug\C_sharp_lab_2.pdb
+F:\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csprojResolveAssemblyReference.cache
+F:\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Form1.resources
+F:\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.ForMouse.resources
+F:\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.Properties.Resources.resources
+F:\C sharp LABS\C_sharp_lab_2\Aircraft_Flight\obj\Debug\Aircraft_Flight.csproj.GenerateResource.Cache

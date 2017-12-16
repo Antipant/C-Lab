@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aircraft", "C_sharp_lab_2\Aircraft.csproj", "{2A562E55-968A-42FE-AE91-A658871D25E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aircraft_Model", "..\C_sharp_lab_1\C_sharp_lab_1\Aircraft_Model.csproj", "{3476E4BF-A721-4CD2-99BC-F0516E7AF574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aircraft_Flight", "Aircraft_Flight\Aircraft_Flight.csproj", "{6FCDEBDD-F51D-4C88-B2A9-FF21D9EB80EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A562E55-968A-42FE-AE91-A658871D25E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A562E55-968A-42FE-AE91-A658871D25E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A562E55-968A-42FE-AE91-A658871D25E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A562E55-968A-42FE-AE91-A658871D25E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3476E4BF-A721-4CD2-99BC-F0516E7AF574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3476E4BF-A721-4CD2-99BC-F0516E7AF574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3476E4BF-A721-4CD2-99BC-F0516E7AF574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3476E4BF-A721-4CD2-99BC-F0516E7AF574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FCDEBDD-F51D-4C88-B2A9-FF21D9EB80EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCDEBDD-F51D-4C88-B2A9-FF21D9EB80EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCDEBDD-F51D-4C88-B2A9-FF21D9EB80EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCDEBDD-F51D-4C88-B2A9-FF21D9EB80EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

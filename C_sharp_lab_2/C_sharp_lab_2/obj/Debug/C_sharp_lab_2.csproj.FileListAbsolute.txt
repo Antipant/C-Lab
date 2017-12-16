@@ -1,0 +1,45 @@
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_2.exe.config
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_2.exe
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_2.pdb
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.Properties.Resources.resources
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.csproj.GenerateResource.Cache
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.exe
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.pdb
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_1.exe
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_1.pdb
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.Form_aircraft.resources
+c:\users\anton\documents\visual studio 2013\Projects\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.System_koord.resources
+F:\Projects\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_2.exe.config
+F:\Projects\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.exe
+F:\Projects\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.pdb
+I:\Projects\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_2.exe.config
+I:\Projects\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.exe
+I:\Projects\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.pdb
+C:\Users\Anton\Desktop\Projects\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_2.exe.config
+C:\Users\Anton\Desktop\Projects\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.exe
+C:\Users\Anton\Desktop\Projects\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.pdb
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_2.exe.config
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.exe
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.pdb
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_2.exe
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_2.pdb
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_1.exe
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_1.pdb
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.Form_aircraft.resources
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.Properties.Resources.resources
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.System_koord.resources
+C:\Users\Anton\Desktop\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_2.exe.config
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.exe
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.pdb
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_2.exe
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_2.pdb
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_1.exe
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\bin\Debug\C_sharp_lab_1.pdb
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.Form_aircraft.resources
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.Properties.Resources.resources
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.System_koord.resources
+C:\Users\Anton\Desktop\C sharp LABS 12 марта\C sharp LABS\C_sharp_lab_2\C_sharp_lab_2\obj\Debug\C_sharp_lab_2.csproj.GenerateResource.Cache
